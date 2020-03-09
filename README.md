@@ -1,0 +1,2 @@
+# userDetailsJSONServer
+Fake rest api
